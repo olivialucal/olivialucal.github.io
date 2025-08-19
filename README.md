@@ -48,4 +48,6 @@ You should now be able to access the website from `localhost:4000`.
 1. Add personal content to `images` and `files`: headshot as profile.png, other images and files
 
 ## Troubleshooting
-- If added images and files are not loaded or available, check `url` and `baseurl` settings in `_config.yml`
+- If styling is not rendering as expected, check the `url` setting in `_config.yml`
+- If images and files you added are not loading, check `url` and `baseurl` settings in `_config.yml`
+- If you are using a Github Pages Project Site (URL format = https://<owner>.github.io/<repositoryname>; e.g., https://lcjohnso.github.io/REUWebsite) rather than a Github Pages User Site (URL format = https://<owner>.github.io; e.g., https://lcjohnso.github.io), be aware that you'll need to include `{% include base_path %}` and `{{ base_path }}` in all Markdown source files for pages, or use full URLs for the expected hosting location (i.e., /images available at https://lcjohnso.github.io/REUWebsite/images)

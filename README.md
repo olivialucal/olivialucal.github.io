@@ -46,3 +46,6 @@ You should now be able to access the website from `localhost:4000`.
 1. Fill in personal info in _config.yml
 1. Fill in content in about.md, research.md, contact.md
 1. Add personal content to `images` and `files`: headshot as profile.png, other images and files
+
+## Troubleshooting
+- If added images and files are not loaded or available, check `url` and `baseurl` settings in `_config.yml`

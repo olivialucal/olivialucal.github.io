@@ -23,20 +23,20 @@ repository               : "olivialucal/REUWebsite"
 author:
   # Biographic information
   avatar           : "profile.png"
-  name             : "L. Clifton Johnson"
-  pronouns         : # "he/him"  
-  bio              : "Research Assistant Professor"
+  name             : "Olivia Lucal"
+  pronouns         : # "she/her"  
+  bio              : "Undergraduate Student"
   location         : "Chicago, IL"
-  employer         : "Northwestern University"
+  employer         : "University of Chicago"
   uri              : # URL
-  email            : "lcj@northwestern.edu" 
+  email            : "oliviamlucal@gmail.com" 
 
   # Academic websites
   academia         : # URL
   arxiv            : # URL - Update with the correct link to your profile
   googlescholar    : # "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   impactstory      : # URL
-  orcid            : "https://orcid.org/0000-0001-6421-0953"
+  orcid            : # 
   semantic         : # URL
   pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : # URL
@@ -46,13 +46,13 @@ author:
   bitbucket        : # Username - Update with your username on the site
   codepen          : # Username
   dribbble         : # Username
-  github           : "lcjohnso"
+  github           : "olivialucal"
   kaggle           : # Username  
   stackoverflow    : # User number or user number and name (i.e., use "1" or "1/jeff-atwood")    
 
   # Social media
   artstation       : # Username
-  bluesky          : "@lcjohnso.bsky.social" # Replace this with you Bluesky username
+  bluesky          : # Username # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -61,7 +61,7 @@ author:
   keybase          : # Username
   instagram        : # Username
   lastfm           : # Username
-  linkedin         : "lcjastro"
+  linkedin         : # Username
   mastodon         : # URL
   medium           : # URL
   pinterest        : # Username

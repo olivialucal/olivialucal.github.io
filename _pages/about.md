@@ -1,6 +1,5 @@
 ---
 permalink: /
-title: "L. Clifton Johnson, Astronomer"
 author_profile: true
 redirect_from: 
   - /about/

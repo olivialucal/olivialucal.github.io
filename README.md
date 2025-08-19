@@ -30,3 +30,19 @@ docker compose up
 ```
 
 You should now be able to access the website from `localhost:4000`.
+
+## Changes for Basic Site
+
+### Already completed in this repo, can be repeated in your own fork of template
+1. Remove all files from `_pages` except 404.md, about.md
+1. Add new page files to `_pages`: research.md, contact.md
+1. Edit `navigation.yml`: declare research and contact as two links in navigation bar
+1. Edit `_config.yml`: turn off collections (via `output: false`) and atom feed (`hide: true`)
+1. Edit `_includes/footer/custom.html`: remove link to Sitemap (now removed)
+1. Remove all existing files from `files`, some files from `images` (keep favicon and manifest.json)
+1. Delete: `_data/comments`, `_drafts`, `_portfolio`, `_posts`, `_publications`, `_talks`, `_teaching`, `talkmap*` files and `talkmap` dir, `CONTRIBUTING.md`, and `LICENSE`
+
+### Personalization Steps
+1. Fill in personal info in _config.yml
+1. Fill in content in about.md, research.md, contact.md
+1. Add personal content to `images` and `files`: headshot as profile.png, other images and files

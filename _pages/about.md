@@ -19,7 +19,7 @@ Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A000
 
 Example -- adding an image hosted locally:
 
-![Editing a Markdown file for a talk](/images/logo_cierareu.png){:width="100"}
+![CIERA REU Logo](/images/logo_cierareu.png){:width="100"}
 
 Example -- adding an image hosted remotely:
 

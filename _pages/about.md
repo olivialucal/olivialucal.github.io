@@ -7,6 +7,8 @@ redirect_from:
   - /about.html
 ---
 
+{% include base_path %}
+
 ![HST image from PHAT of cluster, association, and galaxy](https://bpb-us-e1.wpmucdn.com/sites.northwestern.edu/dist/5/1928/files/2017/09/cropped-b21crop-12qj9v2.png)
 
 ---------
@@ -19,7 +21,7 @@ Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A000
 
 Example -- adding an image hosted locally:
 
-![CIERA REU Logo]({{site.baseurl}}/images/logo_cierareu.png){:width="100"}
+![CIERA REU Logo]({{ site.baseurl }}/images/logo_cierareu.png){:width="100"}
 
 Example -- adding an image hosted remotely:
 

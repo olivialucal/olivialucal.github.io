@@ -5,6 +5,7 @@ author_profile: true
 ---
 
 {% include toc %}
+{% include base_path %}
 
 ## Introduction
 
@@ -20,8 +21,8 @@ I presented initial results as a poster at the 209th Meeting of the American Ast
 
 I completed additional analysis as part of an undergraduate honors thesis and presented the following poster at the 2007 Colby College Undergraduate Research Symposium:
 
-![2007 M82 PNe Research Poster]({{site.baseurl}}/images/m82pne_poster.png)
+![2007 M82 PNe Research Poster]({{ site.baseurl }}/images/m82pne_poster.png)
 
-Download: [PDF]({{site.baseurl}}/files/m82pne_poster.pdf)
+Download: [PDF]({{ site.baseurl }}/files/m82pne_poster.pdf)
 
 I published these results in [Johnson et al. 2009, ApJ, 697, 1138](https://dx.doi.org/10.1088/0004-637X/697/2/1138).

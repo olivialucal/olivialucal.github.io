@@ -21,7 +21,7 @@ Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A000
 
 Example -- adding an image hosted locally:
 
-![CIERA REU Logo]({{ site.baseurl }}/images/logo_cierareu.png){:width="100"}
+![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
 
 Example -- adding an image hosted remotely:
 

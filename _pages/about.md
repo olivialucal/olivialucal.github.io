@@ -8,20 +8,9 @@ redirect_from:
 
 {% include base_path %}
 
-![HST image from PHAT of cluster, association, and galaxy](https://stsci-opo.org/STScI-01HZ2NK29NFZ7H63HMZ8446JM3.jpg)
+![HST image from PHAT of cluster, association, and galaxy](https://www.syfy.com/sites/syfy/files/2022/02/protoplanetary_disc.jpg){:width="100"}
 
 ---------
+My name is Olivia Lucal and I am an undergraduate student at the [University of Chicago](https://www.uchicago.edu) majoring in Astronomy and Astrophysics. Currently, I am employed as a Research Assistant through UChicago's [Department of Geophysical Sciences](https://geosci.uchicago.edu), where I have been coding planetary simulations with the N-body integrator [REBOUND](https://rebound.readthedocs.io/en/latest/) in order to study protoplanetary disk evolution and asteroid implantation. Specifically, I have been trying to determine the impact that Jupiter could have had uppon the formation of our solar system in regards to the development of the chondrite isotopic variations found throughout the Main Asteroid Belt. 
 
-My name is Cliff Johnson and I am a Research Assistant Professor at [Northwestern University](https://www.northwestern.edu/) in [CIERA](https://ciera.northwestern.edu/) and the [Dept. of Physics and Astronomy](https://physics.northwestern.edu/), and the Co-Director & Science Lead of the [Zooniverse](https://www.zooniverse.org/) at the [Adler Planetarium](https://www.adlerplanetarium.org/).
-
-My current research focuses on understanding star formation behavior at spatial scales ranging from that of galaxies down to individual star-forming complexes through the combined study of stellar populations and the interstellar medium. Specifically, I study the formation and evolution of star cluster populations and young pre-main sequence star populations in the Local Group, focusing on how star and cluster formation processes depend on galactic environment. Citizen science and crowdsourcing are important tools in my research.
-
-Publications List: [via ADS](https://ui.adsabs.harvard.edu/#search/q=orcid%3A0000-0001-6421-0953&sort=date%20desc%2C%20bibcode%20desc)
-
-Example -- adding an image hosted locally:
-
-![CIERA REU Logo]({{ base_path }}/images/logo_cierareu.png){:width="100"}
-
-Example -- adding an image hosted remotely:
-
-![PHAT Andromeda Mosaic](https://panoptes-uploads.zooniverse.org/production/project_attached_image/049c71e3-6a77-4476-b3aa-8daf3f6b7578.jpeg)
+In addition to my research, I also serve as the president of the [Ryerson Astronomical Society](https://ras.rso.uchicago.edu), UChicago's premier astronomy club which hosts regular observation nights open to both the college and broader Chicago community. Through our archival work and community-building activities, we seek to spread our love for space and the cosmos to everyone. 

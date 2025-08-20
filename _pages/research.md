@@ -34,4 +34,4 @@ Future work will focus on quantifying the dependence of mode lifetime on disk ed
 I presented initial results as a poster at a symposium at the end of the internship. 
 
 
-Download: [PDF]({{ base_path }}/files/m82pne_poster.pdf)
+Download: [PDF]({{ base_path }}/files/Final Poster.pdf)

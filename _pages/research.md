@@ -13,7 +13,7 @@ My REU summer project (Northwestern University, 2025) was to use the N-body inte
 
 ## Results
 
-We tested the three edge profiles (see Figure 1) across 3 disk mass scalings, $10^{-6}M_*$, $10^{-7}M_*$, and $10^{-8}M_*$. We found that sharp disk edges preserve secular modes best, but lowering the disk mass can offset even poor edge profiles.
+We tested the three edge profiles (see Figure 1) across 3 disk mass scalings, $10^{-6} M_\odot$, $10^{-7} M_\odot$, and $10^{-8} M_\odot$. We found that sharp disk edges preserve secular modes best, but lowering the disk mass can offset even poor edge profiles.
 
 ![Scaled surface densities]({{ base_path}}/images/density.png)
 Figure 1: Scaled surface density $\sigma$ profiles of simulated disks
